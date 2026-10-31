@@ -1,6 +1,6 @@
 # E04 — Operating System Structures: Monolithic, Layered, Microkernel and Modules
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/MG_wUsGmTa0
 
 Files in this folder (standard library only, no installs):
 
