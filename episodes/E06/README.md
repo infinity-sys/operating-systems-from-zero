@@ -1,6 +1,6 @@
 # E06 — System Calls from Python: Talking to the Kernel
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/7q70jlsw8eg
 
 Files in this folder (standard library only, no installs):
 
