@@ -1,6 +1,6 @@
 # E02 — Inside the Computer: CPU, Memory, Devices and Interrupts
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/xN7zwoABboU
 
 Files in this folder (standard library only, no installs):
 
