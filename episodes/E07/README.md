@@ -1,6 +1,6 @@
 # E07 — What Is a Process? Memory Layout and the PCB
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/SWVCgdLo3Lk
 
 Files in this folder (standard library only, no installs):
 
