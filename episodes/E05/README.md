@@ -1,6 +1,6 @@
 # E05 — First Look at Linux: the Shell, Files and Processes
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/hKZQN3Vk6ro
 
 Files in this folder (standard library only, no installs):
 
