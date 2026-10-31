@@ -1,6 +1,6 @@
 # E01 — What Is an Operating System?
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/WE8zeATTRxM
 
 Files in this folder:
 
