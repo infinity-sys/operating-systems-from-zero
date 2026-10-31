@@ -1,6 +1,6 @@
 # E03 — Kernel Mode, User Mode and System Calls
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/QITGNh8K8LU
 
 Files in this folder (standard library only, no installs):
 
